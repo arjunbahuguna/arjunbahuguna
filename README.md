@@ -4,7 +4,7 @@
 💼 Co-founder @ Audio Realities\
 👨‍💻 Machine learning for audio signal processing\
 🔭 Currently working on voice conversion\
-🌱 Currently learning plugin development\
+🌱 Currently learning plugin development
 
 <!--
 
