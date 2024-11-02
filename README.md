@@ -1,9 +1,12 @@
 ## Hi there 👋
 
-<!--
-**arjunbahuguna/arjunbahuguna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨 Arjun Bahuguna (he/him)
+💼 Co-founder @ Audio Realities
+👨‍💻 Machine learning for audio signal processing
+🔭 Currently working on voice conversion
+🌱 Currently learning plugin development
 
-Here are some ideas to get you started:
+<!--
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
