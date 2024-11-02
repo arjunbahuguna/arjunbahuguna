@@ -1,4 +1,4 @@
-c## Hi there 👋\
+## Hi there 👋\
 \
 👨 Arjun Bahuguna (he/him)\
 💼 Co-founder @ Audio Realities\
