@@ -1,10 +1,10 @@
 ## Hi there 👋
 \
 👨 Arjun Bahuguna (he/him)\
-💼 Co-founder @ Audio Realities\
+💼 Master's student @ Universitat Pompeu Fabra\
 👨‍💻 Machine learning for audio signal processing\
-🔭 Currently working on voice conversion\
-🌱 Currently learning plugin development
+🔭 Currently working on multimodal representation learning\
+🌱 Currently learning source separation
 
 <!--
 
